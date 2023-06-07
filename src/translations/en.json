@@ -1,4 +1,25 @@
 {
+    "homeheader": {
+        "speciality": "Medical specialty",
+        "searchdoctor": "Find a doctor by specialty",
+        "header-facility": "Medical facilities",
+        "select-room": "Choose a clinic hospital",
+        "doctor": "Doctor",
+        "choosing-doctor": "Choose a good doctor",
+        "fee": "Examination package",
+        "check-health": "General physical examination",
+        "support": "Support"
+    },
+    "banner": {
+        "title1": "MEDICAL FOUNDATION",
+        "title2": "HOLISTIC HEALTH CARE",
+        "child1": "Specialist Examination",
+        "child2": "Telemedicine",
+        "child3": "General examination",
+        "child4": "Medical tests",
+        "child5": "Mental health",
+        "child6": "Dental examination"
+    },
     "common": {
         "add": "Add",
         "edit": "Edit",
